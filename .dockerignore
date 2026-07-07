@@ -1,0 +1,7 @@
+.git
+.dockerignore
+Dockerfile
+docker-compose.yml
+implementation_plan.md
+task.md
+walkthrough.md
