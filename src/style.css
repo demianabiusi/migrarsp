@@ -204,6 +204,21 @@ textarea:focus {
     color: var(--danger);
 }
 
+.sql-block {
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    overflow-x: auto;
+    font-family: 'Menlo', 'Consolas', 'Monaco', monospace;
+    font-size: 0.8125rem;
+    line-height: 1.7;
+    color: var(--text-primary);
+    white-space: pre;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
