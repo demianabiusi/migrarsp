@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuracion>
+  <servidor>
+    <nombre>Desarrollo</nombre>
+    <host>localhost</host>
+    <usuario>root</usuario>
+    <clave>password</clave>
+    <puerto>3306</puerto>
+    <base>mi_base</base>
+  </servidor>
+  <servidor>
+    <nombre>Produccion</nombre>
+    <host>mi-servidor.com</host>
+    <usuario>admin</usuario>
+    <clave>password</clave>
+    <puerto>3306</puerto>
+    <base>mi_base</base>
+  </servidor>
+</configuracion>
